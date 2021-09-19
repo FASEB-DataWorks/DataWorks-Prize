@@ -4,7 +4,7 @@
 
 FASEB seeks to catalyze community action by articulating an audacious vision of data re-use.  The DataWorks! Prize fuels this vision with a US$1 million recognition and rewards program directed at the data re-use ecosystem: research teams with exemplary data sharing practices and research teams that re-use data from multiple sources to support innovative research aligned with FASEB’s mission of advancing health and well-being.
 
-**Goal:  Promote a culture of data sharing and re-use**
+## Promoting a culture of data sharing and re-use
 
 The DataWorks! Prize recognizes excellence, amplifies best practices, and rewards teams for integrating data sharing and re-use into their research processes.  By showcasing excellence and augmenting incentives with a substantial prize, FASEB will create deep community engagement around  data sharing and re-use practices - in research process, training, and promotion processes. 
 

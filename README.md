@@ -4,7 +4,7 @@
 
 FASEB seeks to catalyze community action by articulating an audacious vision of data re-use.  The DataWorks! Prize fuels this vision with a US$1 million recognition and rewards program directed at the data re-use ecosystem: research teams with exemplary data sharing practices and research teams that re-use data from multiple sources to support innovative research aligned with FASEB’s mission of advancing health and well-being.
 
-## Promoting a culture of data sharing and re-use
+# Promoting a culture of data sharing and re-use
 
 The DataWorks! Prize recognizes excellence, amplifies best practices, and rewards teams for integrating data sharing and re-use into their research processes.  By showcasing excellence and augmenting incentives with a substantial prize, FASEB will create deep community engagement around  data sharing and re-use practices - in research process, training, and promotion processes. 
 
@@ -14,6 +14,12 @@ The DataWorks! Prize recognizes excellence, amplifies best practices, and reward
 
 *Capacity:*  1-3 awards per annual prize cycle. The DataWorks! Prize will be offered in partnership with aligned organizations, agencies, and corporate sponsors. 
 
-## Partners
+# Partners
 
 FASEB is currently seeking interesed partners to help fund the DataWorks! prize.  For more information and to request a propectus, please contact Frank Krause, FASEB Executive Director, fkrause@faseb.org. 
+
+# Join the Conversation!
+
+FASEB is a recent entry into the data sharing and re-use ecosystem, and as such  we seek to learn and partner with organizations and initiatives already in this space.  FASEB DataWorks! activities can build bridges, augment and amplify resources for adoption and use by researchers in the biological and biomedical communities -- and beyond.  We are currently seeking partners for curriculum development, ongoing professional development opportunities, and funding for the Capacity Program and the Catalyzing Data Re-Use Prize.
+
+**Interested in partnering with FASEB? Want to learn more? For more information, please [contact FASEB](https://faseb.org/About-FASEB/Contact-FASEB).**

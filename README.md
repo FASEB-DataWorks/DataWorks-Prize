@@ -8,7 +8,7 @@ FASEB seeks to catalyze community action by articulating an audacious vision of 
 
 # Promoting a culture of data sharing and reuse
 
-The DataWorks! Catalyst Prize recognizes excellence, amplifies best practices, and rewards teams for integrating data sharing and re-use into their research processes.  By showcasing excellence and augmenting incentives with a substantial prize, FASEB will create deep community engagement around  data sharing and reuse practices - in research process, training, and promotion processes. 
+The DataWorks! Catalyst Prize recognizes excellence, amplifies best practices, and rewards teams for integrating data sharing and reuse into their research processes.  By showcasing excellence and augmenting incentives with a substantial prize, FASEB will create deep community engagement around  data sharing and reuse practices - in research process, training, and promotion processes. 
 
 *Eligibility:* Research groups in biomedical and biological sciences are invited to self-nominate. Groups must have at least one person affiliated with a FASEB member society. Nominations and application review criteria will support FASEB’s diversity, equity, accessibility, and inclusion goals.  
 

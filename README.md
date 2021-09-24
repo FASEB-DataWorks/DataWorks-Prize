@@ -1,6 +1,8 @@
 # Catalyzing-Data-Reuse
 
-![Prize Icon](https://user-images.githubusercontent.com/90872869/133942159-03fc1d2e-a386-4d18-9fea-ba643fc6a1e6.png "FASEB DataWorks! Challenge Prize Icon")
+
+![Catalyst Prize Icon](https://user-images.githubusercontent.com/90872869/134705452-cf825c6a-bc56-4399-b4c5-adf0eb185fd5.png "FASEB DataWorks! Challenge Prize Icon")
+
 
 FASEB seeks to catalyze community action by articulating an audacious vision of data reuse.  The DataWorks! Catalyst Prize fuels this vision with a US $1 million recognition and rewards program directed at the data reuse ecosystem: research teams with exemplary data sharing practices and research teams that reuse data from multiple sources to support innovative research aligned with FASEB’s mission of advancing health and well-being.
 

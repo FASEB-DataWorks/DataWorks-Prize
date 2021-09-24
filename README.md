@@ -1,4 +1,4 @@
-# Catalyzing-Data-Reuse
+# Catalyzing Data Reuse
 
 
 ![Catalyst Prize Icon](https://user-images.githubusercontent.com/90872869/134705452-cf825c6a-bc56-4399-b4c5-adf0eb185fd5.png "FASEB DataWorks! Challenge Prize Icon")

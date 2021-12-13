@@ -1,10 +1,11 @@
-# Catalyzing Data Reuse
+# DataWorks! Prize
 
 
-![Catalyst Prize Icon](https://user-images.githubusercontent.com/90872869/134705452-cf825c6a-bc56-4399-b4c5-adf0eb185fd5.png "FASEB DataWorks! Challenge Prize Icon")
+![DW Prize Icon](https://user-images.githubusercontent.com/90872869/145877143-ff97c85e-8fcd-44e3-8e68-bce12a4eab64.jpg "FASEB DataWorks! Prize Icon")
 
+The DataWorks! Prize recognizes biological and biomedical research teams who integrate data sharing and reuse to advance human health.
 
-FASEB seeks to catalyze community action by articulating an audacious vision of data reuse.  The DataWorks! Catalyst Prize fuels this vision with a US $1 million recognition and rewards program directed at the data reuse ecosystem: research teams with exemplary data sharing practices and research teams that reuse data from multiple sources to support innovative research aligned with FASEB’s mission of advancing health and well-being.
+FASEB seeks to catalyze community action by articulating an audacious vision of data reuse.  The DataWorks! Prize fuels this vision with a US $1 million recognition and rewards program directed at the data reuse ecosystem: research teams with exemplary data sharing practices and research teams that reuse data from multiple sources to support innovative research aligned with FASEB’s mission of advancing health and well-being.
 
 # Promoting a culture of data sharing and reuse
 

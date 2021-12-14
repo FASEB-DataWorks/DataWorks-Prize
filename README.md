@@ -9,7 +9,7 @@ FASEB seeks to catalyze community action by articulating an audacious vision of 
 
 # Promoting a culture of data sharing and reuse
 
-The DataWorks! Catalyst Prize recognizes excellence, amplifies best practices, and rewards teams for integrating data sharing and reuse into their research processes.  By showcasing excellence and augmenting incentives with a substantial prize, FASEB will create deep community engagement around  data sharing and reuse practices - in research process, training, and promotion processes. 
+The DataWorks! Prize recognizes excellence, amplifies best practices, and rewards teams for integrating data sharing and reuse into their research processes.  By showcasing excellence and augmenting incentives with a substantial prize, FASEB will create deep community engagement around  data sharing and reuse practices - in research process, training, and promotion processes. 
 
 *Eligibility:* Research groups in biomedical and biological sciences are invited to self-nominate. Groups must have at least one person affiliated with a FASEB member society. Nominations and application review criteria will support FASEB’s diversity, equity, accessibility, and inclusion goals.  
 
@@ -19,10 +19,10 @@ The DataWorks! Catalyst Prize recognizes excellence, amplifies best practices, a
 
 # Partners
 
-FASEB is currently seeking interesed partners to help fund the DataWorks! Catalyst prize.  For more information and to request a propectus, please contact FASEB at info@faseb.org. 
+FASEB is currently seeking interesed partners to help fund the DataWorks! Prize.  For more information and to request a propectus, please contact FASEB at info@faseb.org. 
 
 # Join the Conversation!
 
-FASEB is a recent entry into the data sharing and reuse ecosystem, and as such we seek to learn and partner with organizations and initiatives already in this space.  FASEB DataWorks! activities can build bridges, augment and amplify resources for adoption and use by researchers in the biological and biomedical communities -- and beyond.  We are currently seeking partners for curriculum development, ongoing professional development opportunities, and funding for the Capacity Program and the Catalyst Prize.
+FASEB is a recent entry into the data sharing and reuse ecosystem, and as such we seek to learn and partner with organizations and initiatives already in this space.  FASEB DataWorks! activities can build bridges, augment and amplify resources for adoption and use by researchers in the biological and biomedical communities -- and beyond.  We are currently seeking partners for curriculum development, ongoing professional development opportunities, and funding to support the Community and Prize programs. 
 
 **Interested in partnering with FASEB? Want to learn more? For more information, please contact FASEB at info@faseb.org.**

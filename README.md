@@ -11,11 +11,9 @@ FASEB seeks to catalyze community action by articulating an audacious vision of 
 
 The DataWorks! Prize recognizes excellence, amplifies best practices, and rewards teams for integrating data sharing and reuse into their research processes.  By showcasing excellence and augmenting incentives with a substantial prize, FASEB will create deep community engagement around  data sharing and reuse practices - in research process, training, and promotion processes. 
 
-*Eligibility:* Research groups in biomedical and biological sciences are invited to self-nominate. Groups must have at least one person affiliated with a FASEB member society. Nominations and application review criteria will support FASEB’s diversity, equity, accessibility, and inclusion goals.  
+*Eligibility:* Research groups in biomedical and biological sciences are invited to self-nominate. Nominations and application review criteria will support FASEB’s diversity, equity, accessibility, and inclusion goals.  
 
-*Time Commitment:*  Awardees will be expected to deliver a presentation that showcases their data sharing and/or re-use practices and research outcomes, to publish a paper detailing their data practices, and to serve as a practice ambassador in their research community. 
-
-*Capacity:*  1-3 awards per annual prize cycle. The DataWorks! Catalyst Prize will be offered in partnership with aligned organizations, agencies, and corporate sponsors. 
+*Service Commitment:*  Awardees will be expected to deliver a presentation that showcases their data sharing and/or reuse practices and research outcomes, to publish a paper detailing their data practices, and to serve as a practice ambassador in their research community. 
 
 # Partners
 

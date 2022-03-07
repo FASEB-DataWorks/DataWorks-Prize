@@ -1,7 +1,5 @@
-# DataWorks! Prize
 
-
-![DW Prize Icon](https://user-images.githubusercontent.com/90872869/145877143-ff97c85e-8fcd-44e3-8e68-bce12a4eab64.jpg "FASEB DataWorks! Prize Icon")
+![FASEB-DATAWorks_Prize_RGB-Logo_Gray-Black](https://user-images.githubusercontent.com/90872869/157096438-92856654-a1f0-4b71-bec4-04e306884401.png "FASEB DataWorks! Prize Icon")
 
 The DataWorks! Prize recognizes biological and biomedical research teams who integrate data sharing and reuse to advance human health.
 
